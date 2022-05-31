@@ -26,6 +26,7 @@ a, a:hover {
 
 ::-webkit-scrollbar-thumb{
     /*background: #2435A1;*/
-    background: #2435A1;
+    background:#003E52
+;
     border-radius: 50px;
 }
