@@ -13,7 +13,8 @@ const Services = () => {
                         {/*<a href="#"><span style={{fontSize: media(15,20)}}><i className="fa-solid fa-envelope"/> balanchaevbalancha@gmail.com</span></a>*/}
                         {/*<a href="#"><span style={{fontSize: media(15,20)}}><i className="fa-brands fa-instagram"/> balancha_mektebi</span></a>*/}
                         {/*<a href="#"><span style={{fontSize: media(15,20)}}><i className="fa-brands fa-facebook-f"/> balancha_mektebi</span></a>*/}
-                        <a href="tel:0779-98-81-72"><span style={{fontSize: media(15,20)}}><i className="fa-solid fa-phone"/> 0779-98-81-72</span></a>
+                        <a href="https://t.me/0779-98-81-72"><span style={{fontSize: media(15,20)}}><i className="fab fa-telegram"/> 0779-98-81-72</span></a>
+                        <a href="https://wa.me/0779-98-81-72"><span style={{fontSize: media(15,20)}}><i className="fab fa-whatsapp"/> 0779-98-81-72</span></a>
                         <a href="#"><span style={{fontSize: media(15,20)}}><i className="fa-solid fa-location-dot"/> Жар-Башы айылы.Кырчын кочосу 41</span></a>
                     </div>
                     <div className="services__general--map">

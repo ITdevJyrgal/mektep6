@@ -24,11 +24,11 @@ const Footer = () => {
                         {/*    <h1>MOTION WEB LLC</h1>*/}
                         {/*</div>*/}
                     </div>
-                    {/*<div className="footer-general__seti">*/}
-                    {/*    <h1>Соц тармактар</h1>*/}
-                    {/*    <span><i className="fab fa-instagram"/></span>*/}
-                    {/*    <span><i className="fab fa-whatsapp"/></span>*/}
-                    {/*</div>*/}
+                    <div className="footer-general__seti">
+                        <h1>Соц тармактар</h1>
+                        <span>  <a href="https://t.me/0779-98-81-72"><i className="fab fa-telegram"/></a></span>
+                        <span>  <a href="https://wa.me/0779-98-81-72"><i className="fab fa-whatsapp"/></a></span>
+                    </div>
                 </div>
 
                 <div className="footer-general2">
